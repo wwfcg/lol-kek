@@ -6,7 +6,8 @@ using namespace std;
  int main()
 
  {
- double x, y, z, r;
+ double x, y, z, r; fofqjfoqfj
+  
  x = -2.235e-1;
  y = 2.25;
  z = 15.221;
